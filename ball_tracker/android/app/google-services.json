@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1257936207",
+    "project_id": "multi-ball-tracker",
+    "storage_bucket": "multi-ball-tracker.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1257936207:android:838af21904468e775ba13a",
+        "android_client_info": {
+          "package_name": "com.example.ball_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSXgX9fWJijQd5q8eW8eve4E4gxXappNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1257936207:android:c87bb6046f4ef9275ba13a",
+        "android_client_info": {
+          "package_name": "com.example.bt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSXgX9fWJijQd5q8eW8eve4E4gxXappNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
